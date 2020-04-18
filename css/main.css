@@ -20,7 +20,7 @@ body
 
 	transition: background 0.3s, color, 0.3s;
 }
-.preload, .preload header, .preload header *, .preload nav *, .preload footer *
+.preload, .preload *
 {
 	transition: none !important;
 }
