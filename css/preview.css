@@ -1,0 +1,73 @@
+main
+{
+   min-height: 150vh;
+}
+.container
+{
+   padding: 5vw;
+   width:60vw;
+   margin:25px auto;
+}
+
+.container img
+{
+   display: block;
+   margin: 0 auto;
+   width:60vw;
+}
+
+h3, h4
+{
+   box-sizing: border-box;
+   padding-left: 7.5%;
+   font-weight: 400;
+}
+h3
+{
+   font-size: 40px;
+   letter-spacing: 2px;
+   margin-bottom: 5px;
+}
+h4
+{
+   font-size: 30px;
+   margin-top: 5px;
+}
+
+p
+{
+   padding: 0 7.5%;
+   font-size: 26px;
+   line-height: 34px;
+   letter-spacing: 0.5px;
+   font-weight: 300;
+}
+/* Phones */
+@media only screen and (max-width: 670px)
+{
+	nav
+	{
+		height: 25vh;
+		flex-direction: column;
+
+		position: static;
+	}
+
+	nav > *
+	{
+		box-sizing: border-box;
+		text-align: left;
+		padding-left: 35vw;
+		height: 5vh;
+		width: 100%;
+	}
+
+	footer > div
+	{
+		width: 100%;
+	}
+	footer span
+	{
+		font-size: 15px;
+	}
+}
