@@ -42,6 +42,13 @@ p
    letter-spacing: 0.5px;
    font-weight: 300;
 }
+a.source
+{
+	letter-spacing: 0px;
+	font-size:22px;
+	color:#084aff;
+	text-decoration: none;
+}
 /* Phones */
 @media only screen and (max-width: 670px)
 {

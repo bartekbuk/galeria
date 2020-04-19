@@ -116,7 +116,7 @@ const data = {
    projektowanie_wnetrz: {
       author: "Natalia",
       title: "Projekty wnętrz",
-      description: "Projektowanie wnętrz również jest czymś, co mnie bardzo interesuje. Uwielbiam rozmyślać ułożenie i dobór mebli w danym miejscu. Co chwilę zmieniam umiejscowienie mebli w swoim pokoju."
+      description: "Projektowanie wnętrz również jest czymś, co mnie bardzo interesuje. Uwielbiam rozmyślać ułożenie i dobór mebli w danym miejscu. Co chwilę zmieniam umiejscowienie mebli w swoim pokoju.<br><br><a class=\"source\" href=\"https://archiup.com/pl/projekt/domy-lazienki-salony-dom-pod-tarnowem_3229\" target=\"_blank\">Link do źródła zdjęcia</a>"
   },
    czytanie: {
       author: "Natalia",
