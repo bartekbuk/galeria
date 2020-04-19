@@ -36,7 +36,7 @@ function updateTheme()
       themeChanger.innerHTML = `<i class="icon-sun-inv"></i>`;
    }
    localStorage.setItem('theme', theme);
-   logo.src = theme == "dark" ? "logo2.png" : "logo.png";
+   //logo.src = theme == "dark" ? "logo2.png" : "logo.png";
 }
 
 themeChanger.addEventListener('click',changeTheme);
